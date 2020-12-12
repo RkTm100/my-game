@@ -1,2 +1,1 @@
-# my-game
-:)
+# PROC41-Template
